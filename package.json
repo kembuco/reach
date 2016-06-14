@@ -32,5 +32,10 @@
     "nested object",
     "safe lookup",
     "object path"
-  ]
+  ],
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
 }
